@@ -1,0 +1,14 @@
+C:\_exemplos_clases-\bin\Debug\net8.0\_exemplos_clases-.exe
+C:\_exemplos_clases-\bin\Debug\net8.0\_exemplos_clases-.deps.json
+C:\_exemplos_clases-\bin\Debug\net8.0\_exemplos_clases-.runtimeconfig.json
+C:\_exemplos_clases-\bin\Debug\net8.0\_exemplos_clases-.dll
+C:\_exemplos_clases-\bin\Debug\net8.0\_exemplos_clases-.pdb
+C:\_exemplos_clases-\obj\Debug\net8.0\_exemplos_clases-.GeneratedMSBuildEditorConfig.editorconfig
+C:\_exemplos_clases-\obj\Debug\net8.0\_exemplos_clases-.AssemblyInfoInputs.cache
+C:\_exemplos_clases-\obj\Debug\net8.0\_exemplos_clases-.AssemblyInfo.cs
+C:\_exemplos_clases-\obj\Debug\net8.0\_exemplos_clases-.csproj.CoreCompileInputs.cache
+C:\_exemplos_clases-\obj\Debug\net8.0\_exemplos_clases-.dll
+C:\_exemplos_clases-\obj\Debug\net8.0\refint\_exemplos_clases-.dll
+C:\_exemplos_clases-\obj\Debug\net8.0\_exemplos_clases-.pdb
+C:\_exemplos_clases-\obj\Debug\net8.0\_exemplos_clases-.genruntimeconfig.cache
+C:\_exemplos_clases-\obj\Debug\net8.0\ref\_exemplos_clases-.dll
